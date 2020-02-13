@@ -1,6 +1,6 @@
 # Python-Keylogger
 
-Run the use_key_log.py First.
+Run the file KeyLoggerFinal.
 
 Please install following libraries
 1) pip install smtplib
